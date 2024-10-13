@@ -1,0 +1,43 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/home/rm/Desktop/ros-rob/devel/include/**",
+                "/opt/ros/noetic/include/**",
+                "/home/rm/Desktop/ros-rob/src/navigation/amcl/include/**",
+                "/home/rm/Desktop/ros-rob/src/navigation/base_local_planner/include/**",
+                "/home/rm/sentry_ws(1.0)/src/TX/include/**",
+                "/home/rm/sentry_ws(1.0)/src/TX/src/**",
+                "/home/rm/Desktop/ros-rob/src/bot/include/**",
+                "/home/rm/Desktop/ros-rob/src/navigation/carrot_planner/include/**",
+                "/home/rm/Desktop/ros-rob/src/navigation/clear_costmap_recovery/include/**",
+                "/home/rm/Desktop/ros-rob/src/navigation/costmap_2d/include/**",
+                "/home/rm/Desktop/ros-rob/src/navigation/dwa_local_planner/include/**",
+                "/home/rm/Desktop/ros-rob/src/navigation/global_planner/include/**",
+                "/home/rm/Desktop/ros-rob/src/navigation/map_server/include/**",
+                "/home/rm/Desktop/ros-rob/src/navigation/move_base/include/**",
+                "/home/rm/Desktop/ros-rob/src/navigation/move_slow_and_clear/include/**",
+                "/home/rm/Desktop/ros-rob/src/navigation/nav_core/include/**",
+                "/home/rm/Desktop/ros-rob/src/navigation/navfn/include/**",
+                "/home/rm/sentry_ws/src/rf2o_laser_odometry/include/**",
+                "/home/rm/Desktop/ros-rob/src/navigation/rotate_recovery/include/**",
+                "/home/rm/sentry_ws/src/setgoal/include/**",
+                "/home/rm/Desktop/ros-rob/src/navigation/voxel_grid/include/**",
+                "/home/rm/nqy/sentry/sentry_ws/src/TX/include/**",
+                "/usr/include/**",
+                "${workspaceFolder}/include",
+                "/opt/ros/noetic/include"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
